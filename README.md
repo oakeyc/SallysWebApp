@@ -1,2 +1,1 @@
-# SallysWebApp
-A Demo Web App for Sally
+Demo Web App for Sally
