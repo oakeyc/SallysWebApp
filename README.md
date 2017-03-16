@@ -1,2 +1,2 @@
 Demo Web App for Sally
-Because Azure is awesome :D
+Because Azure is super awesome
